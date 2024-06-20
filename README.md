@@ -2,6 +2,7 @@
 - 👀 I’m interested in Front end engineering and designs(Product, UI, UX)
 - 🌱 I’m currently learning Frontend engineering @ Alt school Africa
 - 🌱 I’m currently learning Software enginnering @ ALU
+- 🌱 I’m currently learning Frontend Developer @ JetBrains Academy
 - 📫 How to reach me @zee.yahh_ - instagram, fawzoke@gmail.com
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I was once in the medical field
